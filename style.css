@@ -1,0 +1,20 @@
+body {
+  background-color: #aaffff;
+}
+#wel {
+  padding: 9px 5px 9px 5px;
+  border: 2px double #d7ee0c;
+  margin: 10px;
+}
+#wel2 {
+  color: #0ceed0;
+  padding: 9px 5px 9px 5px;
+  border: 3px double#ee0c0c;
+  margin: 30px;
+}
+.div1 {
+  color: #0caeee;
+  padding: 3px double #dfee0c;
+  margin: 0 auto;
+  width: 50%;
+}
